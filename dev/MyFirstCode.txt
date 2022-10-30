@@ -1,5 +1,5 @@
 Adding files to GitHub and checking where its working or not in the repository
 now it will move from server to local machince is known as pull or fetch process
-
 Testing automation Engineer with 4 years of experience
 now it will move from server to local machine is known as pull or fetch process
+make a lesson on daily basics 
